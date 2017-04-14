@@ -1,5 +1,6 @@
 # RealmDB
-##Benchmarking RealmDB with huge data and finding the time taken for basic operations on a android device
+## Benchmarking RealmDB with huge data and finding the time taken for basic operations on a android device
+
 Repository for RealmDB related R&amp;D
 This POC helps in finding out the time taken by RealmDB for processing huge data.
 
